@@ -16,5 +16,9 @@ namespace ConsoleAppGit2
         {
             Console.WriteLine("hello parctice");
         }
+        public void test3()
+        {
+            Console.WriteLine("hello parctice");
+        }
     }
 }
